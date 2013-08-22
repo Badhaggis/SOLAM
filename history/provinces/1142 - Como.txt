@@ -1,0 +1,40 @@
+# 1142 - Como
+
+# County Title
+title = c_como
+
+# Settlements
+max_settlements = 5
+
+b_legnano = temple
+b_turbigo = castle
+b_como = city
+b_varese = city
+
+#b_castellodibaradello = castle
+#b_chiavenna = castle
+#b_castellodivarese = castle
+#b_arona = temple
+#b_gallarate = city
+#b_roccadiangera = castle
+#b_angera = city
+#b_castelloditirano = castle
+#b_tirano = city
+#b_castellodimontagnainvaltellina = castle
+#b_montagnainvaltellina = city
+#b_sondrio = city
+#b_andalovaltellino = castle
+#b_castellodisondrio = castle
+
+
+
+
+# Misc
+culture = roman
+religion = orthodox
+
+# History
+1127.1.1 = { capital = b_turbigo }
+1193.12.25 = { capital = b_como }
+1240.1.1 = { capital = b_turbigo }
+1240.1.1 = { b_chiavenna = castle }

@@ -1,0 +1,26 @@
+# 1117 - Camerino
+
+# County Title
+title = c_camerino
+
+# Settlements
+max_settlements = 4
+
+b_camerino = city
+b_roccaflea = castle
+#b_caldarola = castle
+#b_preci = temple
+#b_matelica = city
+#b_norcia = city
+#b_gualdotadino = city
+#b_vallecastellana = castle
+#b_roccadeiborgia = castle
+#b_fabriano = city
+#b_castelraimondo = tempel
+
+# Misc
+culture = roman
+religion = orthodox
+
+# History
+

@@ -1,0 +1,8 @@
+312.1.1={
+	liege="e_byzantium"
+	law = agnatic_succession
+	law = succ_feudal_elective
+}
+475.1.9={
+	holder=70515
+}

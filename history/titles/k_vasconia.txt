@@ -1,0 +1,8 @@
+100.1.1=
+{
+	pentarch = b_roma
+}
+475.1.1 = {
+	law = cognatic_succession
+	holder=106000
+}

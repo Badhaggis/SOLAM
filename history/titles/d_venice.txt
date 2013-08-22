@@ -1,0 +1,5 @@
+#empty
+470.1.1 = {
+	law = agnatic_succession
+	law = succ_feudal_elective
+}

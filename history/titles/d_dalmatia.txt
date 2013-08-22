@@ -1,0 +1,5 @@
+475.10.31={
+	law = agnatic_succession
+	law = succ_feudal_elective
+	holder=1438103
+}

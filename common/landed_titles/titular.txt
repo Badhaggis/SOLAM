@@ -1,0 +1,103 @@
+k_francia = {
+		color={ 15 27 187 }
+		color2={ 255 255 20 }
+		capital = 112 # Ile de France
+	}
+
+k_soissons = {
+		color={ 160 65 0 }
+		capital = 95 #Amiens/Soissons
+
+		allow = {
+			culture_group = romantic
+		}
+	}
+
+k_ostrogoth = {
+		color={ 92 61 136 }
+		capital = 505 #Belgrade
+
+		allow = {
+			culture = german
+		}
+	}
+
+k_soissons = {
+		color={ 155 55 65 }
+		color2={ 255 255 255 }
+
+		capital = 95
+		allow = {
+			culture_group = galloroman
+		}
+	}
+k_tolosa = {
+	color={ 200 217 102 }
+	color2={ 255 255 20 }
+	capital = 212 # Narbo(nne)
+}
+
+k_suevic = {
+	color={ 241 207 173 }
+	color2={ 255 255 255 }
+}
+
+d_alemannia = {
+		color={ 133 182 154 }
+		color2={ 220 220 20 }
+		
+		culture = german
+		tribe = yes
+		
+}
+d_thuringian = {
+	color={ 205 207 107 }
+	color2={ 255 255 255 }
+
+	capital = 255 #Erfurt, Thuringen/ia
+	culture = german
+	tribe = yes
+}
+
+d_scirii = {
+	color={ 57 142 157 }
+	color2={ 220 220 20 }
+
+tribe = yes
+	
+ } 
+d_heruli = {
+	color={ 37 114 179 }
+	color2={ 220 220 20 }
+
+tribe = yes
+	
+ }    
+d_langobardi = {
+	color={ 56 67 158 }
+	color2={ 220 220 20 }
+
+tribe = yes
+	
+ } 
+ 
+ d_scythia = {
+	color={ 165 255 250 }
+	color2={ 220 220 20 }
+	
+tribe = yes
+
+ } 
+ d_marcomanni = {
+	color={ 78 98 40 }
+	color2={ 220 220 20 }
+	
+tribe = yes
+ } 
+
+ d_gepids = {
+	color={ 130 100 100 }
+	color2={ 220 220 20 }
+	
+	tribe = yes
+ }

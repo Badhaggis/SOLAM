@@ -1,0 +1,20 @@
+350.1.1=
+{
+liege="d_gwynedd"
+}
+360.1.1=
+{
+	holder = 1450136 # Constantine / Custennin Fawr
+}
+390.1.2=
+{
+	holder = 1450137
+}
+445.1.2=
+{
+	holder = 1450138
+}
+470.1.2=
+{
+	holder = 1450139
+}

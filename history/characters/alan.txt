@@ -1,0 +1,148 @@
+20662 = {
+	name="Dagalaiphus"
+	#Fl. Dagalaiphus 2	consul 461; patricius in Constantinple 475/476 under Basiliscus
+	dynasty=65
+	martial=7
+	diplomacy=8
+	intrigue=5
+	stewardship=7
+	learning=6
+	religion = orthodox
+	culture="alan"
+	add_trait="greedy"
+	add_trait="gregarious"
+	add_trait="cynical"
+	add_trait="indulgent_wrastrel"
+	425.1.1={
+		birth="425.1.1"
+	}
+	475.10.31 = {
+		employer = 1438126
+		give_job_title=job_chancellor
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+20664 = {
+	name="Candac"
+	# Candac 1	?Scyrian chief M/L V
+	dynasty=85
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=8
+	religion="tengri_pagan"
+	culture="hunnic"
+	add_trait="gregarious"
+	add_trait="misguided_warrior"
+	434.1.1={
+		birth="434.1.1"
+	}
+	498.1.1={
+		death="498.1.1"
+	}
+}
+
+122502 = {
+	name="Attila"
+	dynasty=129
+	martial=13
+	diplomacy=11
+	intrigue=6
+	stewardship=11
+	religion="tengri_pagan"
+	culture="hunnic"
+	add_trait="cruel"
+	add_trait="ambitious"
+	add_trait="strong"
+	add_trait="brave"
+	add_trait="brilliant_strategist"
+	414.1.1={
+		birth="414.1.1"
+	}
+	453.1.1={
+		death="453.1.1"
+	}
+}
+
+20665 = {
+	name="Ernakh"
+	dynasty=129
+	martial=7
+	diplomacy=6
+	intrigue=4
+	stewardship=8
+	religion="tengri_pagan"
+	culture="hunnic"
+	add_trait="cynical"
+	add_trait="strong"
+	add_trait="tough_soldier"
+	father=122502
+	439.1.1={
+		birth="439.1.1"
+	}
+	503.1.1={
+		death="503.1.1"
+	}
+}
+
+20666 = {
+	name="Kazarig"
+	dynasty=129
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="tengri_pagan"
+	culture="hunnic"
+	add_trait="content"
+	add_trait="strong"
+	add_trait="misguided_warrior"
+	father=20665
+	455.1.1={
+		birth="455.1.1"
+	}
+	517.1.1={
+		death="517.1.1"
+	}
+}
+
+20667 = {
+	name="Anos"
+	dynasty=130
+	martial=7
+	diplomacy=7
+	intrigue=5
+	stewardship=7
+	religion="tengri_pagan"
+	culture="alan"
+	add_trait="shy"
+	add_trait="elusive_shadow"
+	460.10.31={
+		birth="460.10.31"
+	}
+	530.1.1={
+		death="530.1.1"
+	}
+}
+
+20668 = {
+	name="Spadines"
+	dynasty=131
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="tengri_pagan"
+	culture="alan"
+	add_trait="humble"
+	add_trait="underhanded_rogue"
+	455.1.1={
+		birth="455.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+	}
+}

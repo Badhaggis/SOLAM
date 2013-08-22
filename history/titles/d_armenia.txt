@@ -1,0 +1,14 @@
+310.1.1=
+{
+liege="e_byzantium"
+	law = agnatic_succession
+	law = succ_feudal_elective
+}
+404.1.1=
+{
+holder=223003
+}
+472.1.1=
+{
+holder=223005
+}

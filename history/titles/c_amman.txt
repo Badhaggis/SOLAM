@@ -1,0 +1,88 @@
+220.1.1=
+{
+	holder=144060 #Jafnah I ibn 'Amr
+}
+265.1.1=
+{
+	holder=144061 #'Amr I ibn Jafnah
+}
+270.1.1=
+{
+	holder=144062 #Tha'labah ibn 'Amr
+}
+287.1.1=
+{
+	holder=144063 #al-Harith I ibn Tha'labah
+}
+307.1.1=
+{
+	holder=144064 #Jabalah I ibn al-Harith
+}
+317.1.1=
+{
+	holder=144094 #al-Harith II ibn Jabalah
+}
+327.1.1=
+{
+	holder=144095 #al-Mundhir I Senior ibn al-Harith II
+}
+330.1.1=
+{
+	holder=144096 #al-Aiham ibn al-Harith II
+}
+330.1.2=
+{
+	holder=144097 #al-Mundhir II Junior ibn al-Harith II
+}
+340.1.1=
+{
+	holder=144098 #al-Nu`man I ibn al-Harith II
+}
+342.1.1=
+{
+	holder=144145
+}
+356.1.1=
+{
+	holder=144146
+}
+361.1.1=
+{
+	holder=144148
+}
+362.1.1=
+{
+	holder=144147
+}
+391.1.1=
+{
+	holder=144149
+}
+418.1.1=
+{
+	holder=144150
+}
+434.1.1=
+{
+	holder=144153
+}
+453.1.1=
+{
+	holder=144151
+}
+455.1.1=
+{
+	holder=144152
+}
+456.1.1=
+{
+	holder=144561
+}
+465.1.1=
+{
+	holder=144154
+}
+472.1.1=
+{
+	holder=144560
+}

@@ -1,0 +1,6 @@
+
+470.1.1=
+{
+	holder=1438178
+	liege=k_tolosa
+}

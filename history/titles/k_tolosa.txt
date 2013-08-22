@@ -1,0 +1,9 @@
+100.1.1=
+{
+	pentarch = b_roma
+}
+451.1.1 = {
+	law = agnatic_succession
+	law = succ_seniority
+	holder = 1428100 #Euric Balting
+}

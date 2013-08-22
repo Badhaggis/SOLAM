@@ -1,0 +1,8 @@
+474.6.1={
+	law = agnatic_succession
+	law = succ_feudal_elective
+	holder=1438103	#Julius Nepos
+}
+475.10.31={
+	holder=1438100	#Romulus Augustulus
+}

@@ -1,0 +1,9 @@
+k_hepthalites = {
+	color = { 6 127 5 }
+	color2={ 255 255 255 }
+	culture = huna
+	religion = tengri_pagan
+	capital = 904 #Balkh
+	dignity = 200 #Should be primary title even if AI expands massively.
+	title_prefix = "CONFEDERACY_OF"
+	}

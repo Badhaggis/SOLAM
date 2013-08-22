@@ -1,0 +1,87 @@
+####Existing Dynasties in Use####
+###7511 is Karens###
+114 = {
+	name="Sassanid"
+	culture = persian
+}
+7331 = {
+	name="Bavandid" #Cadet branch of the Sassanids, may or may not be used.
+	culture = persian
+}
+7511 = {
+	name="Karen" #Duchy of Hamadan, Capital in Hamadan
+	culture = persian
+}
+
+1000058000 = {
+	name="Parni" #Parthian remnants, based in western Khorosan/Herat(?)
+	culture = persian
+}
+1000058001 = {
+	name="Mihran" #Govern northeastern Iran, and maybe provinces near Fars.
+	culture = persian
+}
+1000058002 = {
+	name="Suren" #Duchy of Hormuz, Capital in Sistan. Also hold Nishapur.
+	culture = persian
+}
+1000058003 = {
+	name="Aspahbadh" #Counts in Khorosan, Capital in Gurgan. Also rule Yazd.
+	culture = persian
+}
+1000058004 = {
+	name="Dahae" #Counts in Khorosan, Capital in Qohoistan (Quchan?)
+	culture = persian
+}
+1000058005 = {
+	name="Sohae" #Duchy of Merv, Capital in Merv
+	culture = persian
+}
+1000058006 = {
+	name="Varazes" #Miscellaneous noble family
+	culture = persian
+}
+1000058007 = {
+	name="Andigans" #Miscellaneous noble family
+	culture=persian
+}
+1000058008 = {
+	name="Veshnasp" #Military Governor (Marzpan) of Sassanid Armenia from 465-481
+	culture=persian
+}
+1000058009 = {
+	name="Chosroid" #Cadet branch of Sassanids, vassal kings of Iberia
+	culture = persian #Possibly Georgian or Iberian
+}
+1000058010 = {
+	name="Hangirpe" #dynasty of famous Zoroastrian high priest of Shapur I
+	culture = persian
+}
+1000058011 = {
+	name="Hazaravougdid" #dynasty of Persian general who invaded Armenia in 483 AD
+	culture = persian
+}
+1000058012 = {
+	name="Hepthalite" #Hepthalite Monarchy
+	culture = Huna
+}
+1000058013 = {
+	name="Spandiyad" #Capital in Rayy, governors of Eshafan.
+	culture = persian
+}
+1000058014 = {
+	name="Waraz" #? Use to fill in gaps?
+	culture = persian
+}
+1000058015 = {
+	name="Zik" #? Use to fill in gaps?
+	culture = persian
+}
+1000058016 = {
+	name="Dukht" #? Use to fill in gaps?
+	culture = persian
+}
+1000058017 = {
+	name="Afrighid" #independent ruler of Khiva (Khwarezmia)
+	culture = persian
+}

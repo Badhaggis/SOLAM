@@ -1,0 +1,35 @@
+# 799 - Gabiyaha
+
+# County Title
+title = c_gabiyaha
+
+# Settlements
+max_settlements = 6
+b_hermopolis = castle
+b_fuwa = temple
+b_xois = city
+b_rosetta = temple
+
+#b_sais = city
+#b_buto = castle
+#b_disuq = castle
+#b_mutubis = castle
+
+# Misc
+culture = greek
+religion = miaphysite
+
+# History
+475.1.1 = { 
+	b_rosetta = ca_keep_1
+	b_rosetta = ca_training_grounds_1
+	b_rosetta = ca_stable_1
+	b_rosetta = ca_wall_1
+	b_rosetta = ca_wall_2
+	b_rosetta = ca_militia_barracks_1
+	b_hermopolis = ct_port_1
+	b_hermopolis = ct_wall_1
+	b_hermopolis = ct_barracks_1
+}
+
+1171.1.1 = { religion = pagan }

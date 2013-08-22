@@ -1,0 +1,34 @@
+268.1.1=
+{
+	holder=144563
+	law = agnatic_succession
+	law = succ_seniority
+}
+295.1.1=
+{
+	holder=144564
+}
+328.1.1=
+{
+	holder=20731
+}
+363.1.1=
+{
+	holder=20740
+}
+368.1.1=
+{
+	holder=20815
+}
+390.1.1=
+{
+	holder=20818
+}
+418.1.1=
+{
+	holder=20821
+}
+462.1.1=
+{
+	holder=20822
+}

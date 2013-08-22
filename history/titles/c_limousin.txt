@@ -1,0 +1,7 @@
+450.1.1={
+	liege="d_aquitaniaprima"
+}
+470.1.1={
+	holder=1428115
+	liege= "k_tolosa"
+}

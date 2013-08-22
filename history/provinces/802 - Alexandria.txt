@@ -1,0 +1,27 @@
+# 802 - Alexandria
+
+# County Title
+title = c_alexandria
+
+#This isn't where Alexandria actually was
+
+# Settlements
+max_settlements = 4
+b_alexandria = castle
+b_burgelarab = temple
+b_marabout = city
+
+#b_damanhur = temple
+#b_naucratis = castle
+#b_elkanoun = castle
+#b_abukir = castle
+
+# Misc
+culture = coptic
+religion = miaphysite
+
+# History
+
+
+
+1171.1.1 = { religion = pagan } 

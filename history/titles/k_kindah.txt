@@ -1,0 +1,34 @@
+325.1.1=
+{
+	holder=20849
+	law = agnatic_succession
+	law = succ_seniority
+}
+341.1.1=
+{
+	holder=20856
+}
+357.1.1=
+{
+	holder=20882
+}
+373.1.1=
+{
+	holder=20900
+}
+389.1.1=
+{
+	holder=226001
+}
+405.1.1=
+{
+	holder=226002
+}
+425.1.1=
+{
+	holder=226004
+}
+458.1.1=
+{
+	holder=226006
+}

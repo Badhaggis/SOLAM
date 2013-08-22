@@ -1,0 +1,23 @@
+# 304 - Rügen
+
+# County Title
+title = c_rugen
+
+# Settlements
+max_settlements = 3
+b_rugard = castle
+#b_charenza = city
+b_arkona = temple
+
+#b_putbus = castle
+#b_barth = castle
+#b_ralswiek = castle
+#b_hiddensee = castle
+#b_tribuzin = castle
+
+culture = venedi
+religion = continental_pagan
+
+# History
+## Bergen/Marienkirche is the only town of note of the timeline...
+

@@ -1,0 +1,5 @@
+469.1.1=
+{
+	liege="d_kutrigur"
+	holder=20666
+}

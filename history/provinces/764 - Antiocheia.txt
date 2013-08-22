@@ -1,0 +1,20 @@
+# 764 - Antiocheia
+
+# County Title
+title = c_antiocheia
+
+# Settlements
+max_settlements = 5
+b_latakiah = castle
+b_antiocheia = temple
+#b_stsymeon = temple
+b_saone = castle
+
+b_darbsak = castle
+#b_hazart = castle
+#b_baghras = castle
+#b_harenc = castle
+
+# Misc
+culture = greek
+religion =orthodox

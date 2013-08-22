@@ -1,0 +1,259 @@
+1.1.2={
+	holder=1438200 #Augustus
+}
+14.8.19={
+	holder=1438201 #Tiberius
+}
+37.3.16={
+	holder=1438202 #Caligula
+}
+41.1.24={
+	holder=1438203 #Claudius
+}
+54.10.13={
+	holder=1438204 #Nero
+}
+68.6.8={
+	holder=1438207 #Galba
+}
+69.1.15={
+	holder=1438208 #Otho
+}
+69.4.17={
+	holder=1438209 #Vitellius
+}
+69.7.1={
+	holder=14382110 #Vespasian
+}
+79.6.24={
+	holder=14382111 #Titus
+}
+81.9.14={
+	holder=14382112 #Domitian
+}
+96.9.18={
+	holder=14382113 #Nerva
+}
+98.1.23={
+	holder=14382114 #Trajan (Traianus)
+}
+100.1.1=
+{
+	pentarch = b_roma
+}
+117.8.11={
+	holder=14382115 #Hadrian
+}
+138.7.10={
+	holder=14382116 #Antoninus Pius
+}
+161.3.7={
+	holder=14382117 #Lucius Verus
+}
+169.3.1={
+	holder=14382118 #Marcus Aurelius
+}
+177.1.1={
+	holder=14382119 #Commodus
+}
+193.1.1={
+	holder=14382124 #Pertinax
+}
+193.3.28={
+	holder=14382125 #Didius Julianus
+}
+193.4.9={
+	holder=14382126 #Septimius (Severus)
+}
+198.1.1={
+	holder=14382127 #Caracalla
+}
+209.1.1={
+	holder=14382128 #Geta
+}
+211.12.27={
+	holder=14382127 #Caracalla
+}
+217.4.11={
+	holder=14382129 #Macrinus
+}
+218.6.8={
+	holder=14382130 #Elagabalus
+}
+222.3.13={
+	holder=14382131 #Severus Alexander
+}
+235.3.20={
+	holder=14382132 #Maximinus I
+}
+238.4.1={
+	holder=14382133 #Gordian I
+}
+238.4.11={
+	holder=14382134 #Gordian II
+}
+238.4.22={
+	holder=14382135 #Pupienus
+}
+238.7.28={
+	holder=14382136 #Balbinus
+}
+238.7.29={
+	holder=14382137 #Gordian III
+}
+244.2.11={
+	holder=70526 # Philippus I
+}
+249.1.1={
+	holder=70525 # and wee little Philippus II, co-emperor
+}
+
+249.9.1={
+	holder=14382138 #Trajan Decius
+}
+249.5.30={
+	holder=14382139 #Herennius Etruscus
+}
+249.6.1={
+	holder=14382140 #Hostilian
+}
+251.6.1={
+	holder=14382141 #Trebonianus Gallus
+}
+253.8.1={
+	holder=14382142 #Volusianus
+}
+253.8.31={
+	holder=14382143 #Aemilian
+}
+253.10.1={
+	holder=14382144 #Valerian
+}
+260.1.1={
+	holder=14382145 #Gallienus
+}
+260.7.1={
+	holder=14382146 #Saloninus
+}
+260.8.1={
+	holder=14382145 #Gallienus
+}
+268.9.1={
+	holder=14382147 #Claudius Gothicus
+}
+270.1.1={
+	holder=14382148 #Quintillus
+}
+270.9.1={
+	holder=14382149 #Aurelian
+}
+275.9.25={
+	holder=14382150 #Tacitus
+}
+276.6.1={
+	holder=14382151 #Florian
+}
+279.9.1={
+	holder=14382152 #Probus
+}
+282.9.1={
+	holder=14382153 #Carus
+}
+283.8.1={
+	holder=14382154 #Numerian
+}
+284.1.1={
+	holder=14382155 #Carinus
+}
+284.11.20={
+	holder=14382156 #DIOCLETIAN
+}
+286.4.1={
+	holder=14382157 #Maximian
+}
+305.5.1={
+	holder=70524 #Constantius I Chlorus
+}
+306.7.26={
+	holder=14382158 #Galerius
+}
+306.7.27={
+	holder=14382159 #Severus II
+}
+307.9.16={
+	holder=14382160 #Maxentius
+}
+312.10.29={
+	holder=70523 #Constantine I
+}
+337.5.22={
+	holder=70520 #Constantine II
+}
+340.1.1={
+	holder=70522 #Constans I
+}
+350.1.1={
+	holder=70521 #Constantius II
+}
+350.3.1={
+	holder=14382161 #Vetranio
+}
+350.12.25={
+	holder=70521 #Constantius II
+}
+360.2.1={
+	holder=14382162 #Julian II
+}
+363.6.26={
+	holder=14382163 #Jovian
+}
+364.2.26={
+	holder=14382164 #Valentinian I
+}
+375.11.17={
+	holder=14382166 #Gratian
+}
+383.8.25={
+	holder=14382174 #Valentinian II
+}
+379.1.1={
+	holder=70534 #Theodosius I
+}
+393.1.23={
+	holder=14382120 #Honorius
+}
+421.2.8={
+	holder=14382121 #Constantius III
+}
+423.8.27={
+	holder=14382122 #Iohannes
+}
+424.10.23={
+	holder=14382123 #Valentinian III
+}
+455.4.17={
+	holder=1438137 #Flavius (Anicius?) Petronius Maximus
+}
+455.7.9={
+	holder=1438162 #Eparchius Avitus
+}
+467.4.12={
+	holder = 1438172 #Anthemius
+}
+472.3.23={
+	holder=1438136 #Anicius Olybrius
+}
+473.3.3={
+	holder=1438114 #Glycerius (of Salona?)
+}
+474.6.1={
+holder=1438103	#Julius Nepos
+}
+475.10.31={
+holder=1438100	#Romulus Augustulus
+	law = agnatic_succession
+	law = succ_primogeniture
+}
+476.9.1={
+holder=1438103	#Julius Nepos
+}

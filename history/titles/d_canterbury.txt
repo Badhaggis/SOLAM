@@ -1,0 +1,4 @@
+448.1.5={
+	law = agnatic_succession
+	holder=106
+}

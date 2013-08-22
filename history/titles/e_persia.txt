@@ -1,0 +1,168 @@
+226.1.1={
+	holder=144141 # Ardashir I
+}
+241.1.1={
+	holder=144143 # Shapur I
+}
+272.1.1={
+	holder=144144 # Hormizd I
+}
+273.1.1={
+	holder=144225 # Bahram I
+}
+276.1.1={
+	holder=144226 # Bahram II
+}
+293.1.1={
+	holder=144227 # Bahram III
+}
+293.4.1={
+	holder=144228 # Narseh
+}
+302.1.1={
+	holder=144229 # Hormizd II
+}
+309.1.1={
+	holder=144230 # Shapur II
+}
+379.1.1={
+	holder=144231 # Ardashir II
+}
+383.1.1={
+	holder=144567 # Shapur III
+}
+388.1.1={
+	holder=144568 # Bahram IV
+}
+399.1.1={
+	holder=144569 # Yazdegerd I
+}
+421.1.1={
+	holder=144570 # Bahram V
+}
+438.1.1={
+	holder=144571 # Yazdegerd II
+}
+457.1.1={
+	holder=144572 # Hormizd III
+}
+459.1.1={
+	holder=144573 # Peroz I
+}
+484.6.1={
+	holder=144574 # Balash
+}
+488.1.1={
+	holder=20691 # Kavadh I
+}
+496.1.1={
+	holder=20703 # Djamasp
+}
+498.1.1={
+	holder=180627 # Kavadh I
+}
+531.1.1={
+	holder=180628 # Khosrau I
+}
+579.1.1={
+	holder=180630 # Hormizd IV
+}
+590.1.1={
+	holder=180645 # Bahram VI
+}
+592.1.1={
+	holder=180631 # Khosrau II
+}
+628.2.28={
+	holder=180632 # Kavadh II
+}
+628.6.1={
+	holder=180633 # Ardashir III
+}
+630.4.27={
+	holder=180634 # Borandukht
+}
+631.5.1={
+	holder=180635 # Azarmidokht
+}
+631.9.1={
+	holder=180637 # Yazdegerd III
+}
+651.1.1={
+	holder=0
+}
+#750.1.1={
+#	holder=34001
+#}
+#754.1.1={
+#	holder=34002
+#}
+#775.1.1={
+#	holder=34003
+#}
+#785.1.1={
+#	holder=34004
+#}
+#786.1.1={
+#	holder=34005
+#}
+#809.1.1={
+#	holder=34006
+#}
+#813.1.1={
+#	holder=34007
+#}
+#833.8.9={
+#	holder=34008
+#}
+#842.1.5={	
+#	holder=34009
+#}
+#847.1.1={
+#	holder=34010
+#}
+#861.12.1={
+#	holder=34012
+#}
+#862.6.7={
+#	holder=34013
+#}
+#866.1.1={
+#	holder=34014
+#}
+#869.1.1={
+#	holder=34015
+#}
+#870.6.1={
+#	holder=34016
+#}
+#892.10.1={
+#	holder=34018
+#}
+#902.1.1={
+#	holder=34019
+#}
+#908.1.1={
+#	holder=34021
+#}
+#932.1.1={
+#	holder=34020
+#}
+#934.1.1={
+#	holder=34022
+#}
+#940.1.1={
+#	holder=34023
+#}
+#944.1.1={
+#	holder=34024
+#}
+#946.1.1={
+#	holder=34025
+#}
+#974.1.1={
+#	holder=3080
+#}
+#978.1.1={
+#	holder = 0
+#}

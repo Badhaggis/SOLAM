@@ -1,0 +1,19 @@
+# 1306 - Zaslawye
+
+# County Title
+title = c_zaslawye
+
+# Settlements
+max_settlements = 3
+
+b_zaslawye = castle # Izjaslavl' in finnish
+b_mir = city
+#b_vileyka = city
+
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History
+

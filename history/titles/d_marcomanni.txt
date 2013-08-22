@@ -1,0 +1,8 @@
+1.1.2={
+	law = agnatic_succession
+	law = succ_seniority
+	holder=1428124
+}
+475.1.1={
+	holder=1428125
+}

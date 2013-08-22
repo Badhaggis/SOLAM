@@ -1,0 +1,5 @@
+###New Dynasties for the Caucasus###
+1000059001 = {
+	name="Arsacid" #Armenian branch of the Parthian dynasty. 
+	culture = armenian
+}

@@ -1,0 +1,104 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_degothers;De Gothers;De Gothers;De Gothers;;De Gothers;;;;;;;;;x
+d_degothers_adj;De Gothers;De Gothers;De Gothers;;De Gothers;;;;;;;;;x
+d_devenders;De Venders;De Venders;De Venders;;De Venders;;;;;;;;;x
+d_devenders_adj;De Venders;De Venders;De Venders;;De Venders;;;;;;;;;x
+k_austria;Österreich;Österreich;Österreich;;Österreich;;;;;;;;;x
+k_austria_adj;Austrian;Austrian;Austrian;;Austrian;;;;;;;;;x
+k_oldlivonia;Livonija;Livonija;Livonija;;Livonija;;;;;;;;;x
+k_oldlivonia_adj;Livonijas;Livonijas;Livonijas;;Livonijas;;;;;;;;;x
+k_gardariki;Garðaríki;Garðaríki;Garðaríki;;Garðaríki;;;;;;;;;x
+k_gardariki_adj;Garðaríkr;Garðaríkr;Garðaríkr;;Garðaríkr;;;;;;;;;x
+k_toulouse;Tolosa;Tolosa;Tolosa;;Tolosa;;;;;;;;;x
+k_toulouse_adj;Tolosan;Tolosan;Tolosan;;Tolosan;;;;;;;;;x
+k_flanders;Flanders;Flanders;Flanders;;Flanders;;;;;;;;;x
+k_flanders_adj;Flamande;Flamande;Flamande;;Flamande;;;;;;;;;x
+k_provence;Provença;Provença;Provença;;Provença;;;;;;;;;x
+k_provence_adj;Provençal;Provençal;Provençal;;Provençal;;;;;;;;;x
+k_york;Jórvik;Jórvik;Jórvik;;Jórvik;;;;;;;;;x
+k_york_adj;Jórvikian;Jórvikian;Jórvikian;;Jórvikian;;;;;;;;;x
+d_austrialombardic;Austria;Austria;Austria;;Austria;;;;;;;;;x
+d_austrialombardic_adj;Austrian;Austrian;Austrian;;Austrian;;;;;;;;;x
+d_neustria;Neustria;Neustria;Neustria;;Neustria;;;;;;;;;x
+d_neustria_adj;Neustrian;Neustrian;Neustrian;;Neustrian;;;;;;;;;x
+d_tuscia;Tuscia;Tuscia;Tuscia;;Tuscia;;;;;;;;;x
+d_tuscia_adj;Tuscian;Tuscian;Tuscian;;Tuscian;;;;;;;;;x
+d_amalfi;Amalfi;Amalfi;Amalfi;;Amalfi;;;;;;;;;x
+d_amalfi_adj;Amalfian;Amalfian;Amalfian;;Amalfian;;;;;;;;;x
+d_gaeta;Gaeta;Gaeta;Gaeta;;Gaeta;;;;;;;;;x
+d_gaeta_adj;Gaetan;Gaetan;Gaetan;;Gaetan;;;;;;;;;x
+d_lower_lorraine;Niederlothringen;Niederlothringen;Niederlothringen;;Niederlothringen;;;;;;;;;x
+d_lower_lorraine_adj;Niederlothringishe;Niederlothringishe;Niederlothringishe;;Niederlothringishe;;;;;;;;;x
+d_brabanttitular;Brabrant;Brabrant;Brabrant;;Brabrant;;;;;;;;;x
+d_brabanttitular_adj;Brabrantian;Brabrantian;Brabrantian;;Brabrantian;;;;;;;;;x
+k_valencia;Valencia;Valencia;Valencia;;Valencia;;;;;;;;;x
+k_valencia_adj;Valenciana;Valenciana;Valenciana;;Valenciana;;;;;;;;;x
+k_spanish_galicia;Galicia;Galicia;Galicia;;Galicia;;;;;;;;;x
+k_spanish_galicia_adj;Gallega;Gallega;Gallega;;Gallega;;;;;;;;;x
+k_granada;Granada;Granada;Granada;;Granada;;;;;;;;;x
+k_granada_adj;Granadina;Granadina;Granadina;;Granadina;;;;;;;;;x
+k_catalunya;Catalunya;Catalunya;Catalunya;;Catalunya;;;;;;;;;x
+k_catalunya_adj;Catalana;Catalana;Catalana;;Catalana;;;;;;;;;x
+d_alba_de_tormes;Alba de Tormes;Alba de Tormes;Alba de Tormes;;Alba de Tormes;;;;;;;;;x
+d_alba_de_tormes_adj;de Alba de Tormes;de Alba de Tormes;de Alba de Tormes;;de Alba de Tormes;;;;;;;;;x
+d_alburquerque;Alburquerque;Alburquerque;Alburquerque;;Alburquerque;;;;;;;;;x
+d_alburquerque_adj;de Alburquerque;de Alburquerque;de Alburquerque;;de Alburquerque;;;;;;;;;x
+d_cardona;Cardona;Cardona;Cardona;;Cardona;;;;;;;;;x
+d_cardona_adj;de Cardona;de Cardona;de Cardona;;de Cardona;;;;;;;;;x
+d_gandia;Gandia;Gandia;Gandia;;Gandia;;;;;;;;;x
+d_gandia_adj;de Gandia;de Gandia;de Gandia;;de Gandia;;;;;;;;;x
+d_infantado;Infantado;Infantado;Infantado;;Infantado;;;;;;;;;x
+d_infantado_adj;de Infantado;de Infantado;de Infantado;;de Infantado;;;;;;;;;x
+d_medina_sidonia;Medina Sidonia;Medina Sidonia;Medina Sidonia;;Medina Sidonia;;;;;;;;;x
+d_medina_sidonia_adj;de Medina Sidonia;de Medina Sidonia;de Medina Sidonia;;de Medina Sidonia;;;;;;;;;x
+d_medinaceli;Medinaceli;Medinaceli;Medinaceli;;Medinaceli;;;;;;;;;x
+d_medinaceli_adj;de Medinaceli;de Medinaceli;de Medinaceli;;de Medinaceli;;;;;;;;;x
+e_occitania;Occitània;Occitània;Occitània;;Occitània;;;;;;;;;x
+e_occitania_adj;Occitan;Occitan;Occitan;;Occitan;;;;;;;;;x
+d_sangermano;Terra Sancti Benedicti;Terra Sancti Benedicti;Terra Sancti Benedicti;;Terra Sancti Benedicti;;;;;;;;;x
+d_sangermano_adj;Bendicitian;Bendicitian;Bendicitian;;Bendicitian;;;;;;;;;x
+d_swabia;Schwaben;Schwaben;Schwaben;;Schwaben;;;;;;;;;x
+d_swabia_adj;Schwäbische;Schwäbische;Schwäbische;;Schwäbische;;;;;;;;;x
+d_carinthia;Kärnten;Kärnten;Kärnten;;Kärnten;;;;;;;;;x
+d_carinthia_adj;Kärntenische;Kärntenische;Kärntenische;;Kärntenische;;;;;;;;;x
+d_saxony;Sachsen;Sachsen;Sachsen;;Sachsen;;;;;;;;;x
+d_saxony_adj;Sächsische;Sächsische;Sächsische;;Sächsische;;;;;;;;;x
+d_bavaria;Baiern;Baiern;Baiern;;Baiern;;;;;;;;;x
+d_bavaria_adj;Bairische;Bairische;Bairische;;Bairische;;;;;;;;;x
+d_franconia;Rheinfranken;Rheinfranken;Rheinfranken;;Rheinfranken;;;;;;;;;x
+d_franconia_adj;Rheinisch;Rheinisch;Rheinisch;;Rheinisch;;;;;;;;;x
+d_lauenburg;Lauenburg;Lauenburg;Lauenburg;;Lauenburg;;;;;;;;;x
+d_lauenburg_adj;Lauenburgisch;Lauenburgisch;Lauenburgisch;;Lauenburgisch;;;;;;;;;x
+k_salerno;Principato di Salerno;Principato di Salerno;Principato di Salerno;;Principato di Salerno;;;;;;;;;x
+k_salerno_adj;Salernian;Salernian;Salernian;;Salernian;;;;;;;;;x
+d_yatviags;Jotvingiai;Jotvingiai;Jotvingiai;;Jotvingiai;;;;;;;;;x
+d_yatviags_adj;Jotvingiu;Jotvingiu;Jotvingiu;;Jotvingiu;;;;;;;;;x
+d_pruthenians;Prùsà;Prùsà;Prùsà;;Prùsà;;;;;;;;;x
+d_pruthenians_adj;Prusu;Prusu;Prusu;;Prusu;;;;;;;;;x
+d_curonian;Kurši;Kurši;Kurši;;Kurši;;;;;;;;;x
+d_curonian_adj;Kuršiu;Kuršiu;Kuršiu;;Kuršiu;;;;;;;;;x
+d_zemigalians;Zemgali;Zemgali;Zemgali;;Zemgali;;;;;;;;;x
+d_zemigalians_adj;Zemgali;Zemgali;Zemgali;;Zemgali;;;;;;;;;x
+d_lettigalians;Latgali;Latgali;Latgali;;Latgali;;;;;;;;;x
+d_lettigalians_adj;Latgali;Latgali;Latgali;;Latgali;;;;;;;;;x
+d_esthonia;Eesti;Eesti;Eesti;;Eesti;;;;;;;;;x
+d_esthonia_adj;Eesti;Eesti;Eesti;;Eesti;;;;;;;;;x
+d_narbonne;Narbona;Narbona;Narbona;;Narbona;;;;;;;;;x
+d_narbonne_adj;Narbona;Narbona;Narbona;;Narbona;;;;;;;;;x
+b_friis;Friis;Friis;Friis;;Friis;;;;;;;;;x
+b_vadskaer;Vadskær;Vadskær;Vadskær;;Vadskær;;;;;;;;;x
+b_ukena;Ukena;Ukena;Ukena;;Ukena;;;;;;;;;x
+b_fan_knyphausen;fan Knyphausen;fan Knyphausen;fan Knyphausen;;fan Knyphausen;;;;;;;;;x
+b_tjarksena;Tjarksena;Tjarksena;Tjarksena;;Tjarksena;;;;;;;;;x
+d_nordfrisland;Utlande;Utlande;Utlande;;Utlande;;;;;;;;;x
+d_nordfrisland_adj;Utlandr;Utlandr;Utlandr;;Utlandr;;;;;;;;;x
+b_limbek;Limbekburgr;Limbekburgr;Limbekburgr;;Limbekburgr;;;;;;;;;x
+b_wittenborg;Wittenborg;Wittenborg;Wittenborg;;Wittenborg;;;;;;;;;x
+b_warendorp;Warendorp;Warendorp;Warendorp;;Warendorp;;;;;;;;;x
+b_pat_luneburg;Lüneburg;Lüneburg;Lüneburg;;Lüneburg;;;;;;;;;x
+b_vorrade;Vorrade;Vorrade;Vorrade;;Vorrade;;;;;;;;;x
+b_bardewik;Bardewik;Bardewik;Bardewik;;Bardewik;;;;;;;;;x
+d_ugandians;Ugandilased;Ugandilased;Ugandilased;;Ugandilased;;;;;;;;;x
+d_ugandians_adj;Ugandian;Ugandian;Ugandian;;Ugandian;;;;;;;;;x
+d_oseelians;Saarlased;Saarlased;Saarlased;;Saarlased;;;;;;;;;x
+d_oeslians_adj;Saarlanian;Saarlanian;Saarlanian;;Saarlanian;;;;;;;;;x

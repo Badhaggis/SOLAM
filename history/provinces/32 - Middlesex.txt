@@ -1,0 +1,19 @@
+# 32 - Middlesex
+
+# County Title
+title = c_middlesex
+
+# Settlements
+max_settlements = 4
+b_westminster = temple
+b_london = city
+#b_staines = castle
+#b_tottenham = castle
+#b_fulham = castle
+#b_harrow = castle
+#b_st_pauls = temple
+#b_chelsea = castle
+
+# Misc
+culture = romanobritish
+religion = orthodox

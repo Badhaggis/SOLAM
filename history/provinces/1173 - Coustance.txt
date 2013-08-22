@@ -1,0 +1,41 @@
+# 1173 - Coustance
+
+# County Title
+title = c_coustance
+
+# Settlements
+max_settlements = 5
+
+
+b_cherbourg = castle
+b_coutances = temple
+b_saintlo = city
+#b_barfleur = city
+#b_pirou = castle
+#b_bricquebec = castle
+#b_Regneville = castle
+#b_valognes = city
+#b_montebourg = temple
+#b_saintsauveurlevicomte = castle
+#b_lespieux = city
+
+
+
+
+# Misc
+culture = galloroman
+religion = orthodox
+
+# History
+1060.1.1 = { 
+	b_cherbourg = ca_keep_1
+	b_cherbourg = ca_training_grounds_1
+	b_cherbourg = ca_wall_1
+	b_cherbourg = ca_barracks_1
+	b_cherbourg = ca_town_1
+}
+
+
+
+1100.11.11 = { culture = galloroman }
+

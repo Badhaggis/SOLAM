@@ -1,0 +1,21 @@
+# 331 - Piombino
+
+# County Title
+title = c_piombino
+
+# Settlements
+max_settlements = 4
+b_suvereto = city
+b_radicofani = castle
+b_piombino = temple
+#b_populonia = castle
+#b_campiglia = castle
+#b_follonica = castle
+#b_sanvincenzo = castle
+#b_barrati = castle
+
+# Misc
+culture = roman
+religion = orthodox
+
+400.1.1 = { capital = b_piombino }

@@ -1,0 +1,6 @@
+470.1.1={
+	liege="e_wre"
+	law = agnatic_succession
+	law = succ_feudal_elective
+	holder=1438122
+}

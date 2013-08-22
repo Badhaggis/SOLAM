@@ -1,0 +1,19 @@
+# 991 - Chelm
+
+# County Title
+title = c_chelm
+
+# Settlements
+max_settlements = 4
+
+b_uhrusk = castle
+b_kholm = city
+#b_wlodawa = castle
+#b_hrubieszow = castle 
+
+# Misc
+culture = early_slav
+religion = slavic_pagan
+
+# History
+

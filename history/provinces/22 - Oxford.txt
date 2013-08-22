@@ -1,0 +1,20 @@
+# 22 - Oxford
+
+# County Title
+title = c_oxford
+
+# Settlements
+max_settlements = 4
+b_reading  = castle
+b_abingdon = temple
+b_oxford = city
+
+#b_buckingham = castle
+#b_banbury = castle
+#b_aylesbury = castle
+#b_eynsham = castle
+#b_wallingford = castle
+
+# Misc
+culture = romanobritish
+religion = orthodox

@@ -1,0 +1,4 @@
+476.1.1={
+	holder=37504
+	liege=k_burgundy
+}

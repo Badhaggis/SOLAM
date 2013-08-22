@@ -1,0 +1,18 @@
+446.1.2={
+	holder=1450127 #Aldroenus (ap Salomon/Salomonianus)
+}
+464.1.2={
+	holder=1450128 #Budicus/Budig I
+}
+468.1.2={
+	holder=1450129 #Maxenri ap Budig
+}
+470.1.2={
+	holder=1450130 #Rhiwod ap Budig
+}
+472.1.2={
+	holder=1450131 #Erich ap Aldrien (Erich Aldrianus)
+}
+478.1.2={
+	holder=1450132 #Budicus/Budig II ap Erich (Aldrianus)
+}

@@ -1,0 +1,11 @@
+410.1.1={
+	liege=d_tarraconensis
+}
+470.1.1={
+	holder=1438132
+}
+
+473.10.5={
+	holder=1428122
+	liege=k_tolosa
+}

@@ -1,0 +1,12 @@
+390.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+	holder=10066
+}
+430.1.1={
+	holder=10068
+}
+448.1.1={
+	holder=10075
+}
+

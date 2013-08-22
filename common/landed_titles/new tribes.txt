@@ -1,0 +1,34 @@
+d_ugandians = { 
+	color={ 115 143 196 }
+	color2={ 255 255 255 }
+	
+	culture = tsuudi
+	tribe = yes
+	
+	capital = 379 # Dorpat
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}
+d_oseelians = { 
+	color={ 124 124 124 }
+	color2={ 255 255 255 }
+	
+	culture = tsuudi
+	tribe = yes
+	
+	capital = 376 # Osel
+	
+	allow = {
+		always = no
+	}
+	
+	title = "HIGH_CHIEF"
+	foa = "HIGH_CHIEF_FOA"
+	title_prefix = "TRIBE_OF"
+}

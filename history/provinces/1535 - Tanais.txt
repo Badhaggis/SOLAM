@@ -1,0 +1,15 @@
+# 1535 - Kalos Limen
+
+# County Title
+title = c_tanais
+
+# Settlements
+max_settlements = 1
+
+b_tanais = city
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

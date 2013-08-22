@@ -1,0 +1,22 @@
+# 1311 - Finnveden
+
+# County Title
+title = c_finnveden
+
+# Settlements
+max_settlements = 2
+
+b_piksborg = castle
+b_ljungby = city
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
+1066.1.1 = {
+	culture = swedish
+}
+1130.1.1 = {
+	religion = orthodox
+}

@@ -1,0 +1,19 @@
+# 1314 - Brodno
+
+# County Title
+title = c_brodno
+
+# Settlements
+max_settlements = 4
+
+b_rawa = castle
+#b_sochaczew = castle
+#b_bialapoland = temple
+#b_ostroleska = city
+b_jezow = city
+
+# Misc
+culture = venedi
+religion = slavic_pagan
+
+# History

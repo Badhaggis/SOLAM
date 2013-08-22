@@ -1,0 +1,16 @@
+# 1534 - Kalos Limen
+
+# County Title
+title = c_kerkinitis
+
+# Settlements
+max_settlements = 2
+
+b_kerkinitis = city
+b_doros = castle
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

@@ -1,0 +1,342 @@
+220000 = {
+	name="Genseric"
+	dynasty=12
+	martial=12
+	diplomacy=10
+	intrigue=8
+	stewardship=10
+	religion="arian"
+	culture="german"
+	add_trait="deceitful"
+	add_trait="strong"
+	add_trait="zealous"
+	add_trait="just"
+	add_trait="underhanded_rogue"
+	389.6.6={
+		birth="389.1.1"
+	}
+	477.6.6={
+		death="477.6.6"
+	}
+}
+
+220001 = {
+	name="Huneric"
+	dynasty=12
+	martial=5
+	diplomacy=6
+	intrigue=6
+	stewardship=6
+	religion="arian"
+	culture="german"
+	add_trait="cynical"
+	add_trait="arbitrary"
+	add_trait="greedy"
+	father=220000
+	428.1.1={
+		birth="428.1.1"
+	}
+	455.1.1={
+		add_spouse=220495
+	}
+	484.3.1={
+		death="484.3.1"
+	}
+}
+
+220495 = {
+	name="Eudocia"
+	dynasty=8648
+	martial=5
+	diplomacy=5
+	intrigue=5
+	stewardship=8
+	religion="orthodox"
+	culture="roman"
+	add_trait="proud"
+	add_trait="naive_appeaser"
+	female=yes
+	437.1.1={
+		birth="437.1.1"
+	}
+	472.1.1={
+		death="472.1.1"
+	}
+}
+
+228027 = {
+	name="Hilderic"
+	dynasty=12
+	martial=2
+	diplomacy=1
+	intrigue=1
+	stewardship=1
+	religion="orthodox"
+	culture="german"
+	add_trait="zealous"
+	add_trait="craven"
+	add_trait="charismatic_negotiator"
+	father=220001
+	mother=220495
+	464.1.1={
+		birth="464.1.1"
+	}
+	533.1.1={
+		death="533.1.1"
+	}
+}
+
+475100 = {
+	name="Barbat"
+	dynasty=100513
+	martial=5
+	diplomacy=7
+	intrigue=5
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	add_trait="lisp"
+	add_trait="flamboyant_schemer"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475200 = {
+	name="Vasile"
+	dynasty=100515
+	martial=8
+	diplomacy=8
+	intrigue=4
+	stewardship=7
+	religion="orthodox"
+	culture="romanian"
+	add_trait="thrifty_clerk"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475300 = {
+	name="Ioan"
+	dynasty=100516
+	martial=7
+	diplomacy=4
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="romanian"
+	add_trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475410 = {
+	name="Sas"
+	dynasty=100541
+	martial=8
+	diplomacy=7
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	add_trait="humble"
+	add_trait="scholarly_theologian"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+475550 = {
+	name="Ioan"
+	dynasty=764
+	martial=4
+	diplomacy=7
+	intrigue=6
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	add_trait="arbitrary"
+	add_trait="skilled_tactician"
+	father=475560
+	1282.1.1={
+		birth="1282.1.1"
+	}
+	1303.1.1={
+		add_spouse=475551
+	}
+	1337.1.1 = {
+		give_nickname = nick_the_great
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+475552 = {
+	name="Teodora"
+	female = yes
+	dynasty=764
+	martial=8
+	diplomacy=7
+	intrigue=4
+	stewardship=6
+	religion="orthodox"
+	culture="romanian"
+	add_trait="envious"
+	add_trait="flamboyant_schemer"
+	father=475550
+	mother=475551
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1371.2.17={
+		death="1371.2.17"
+	}
+}
+
+475553 = {
+	name="Nicolaie Alexandru"
+	# AKA: Nicolaie Alexandru
+	dynasty=764
+	martial=6
+	diplomacy=4
+	intrigue=6
+	stewardship=6
+	religion="orthodox"
+	culture="romanian"
+	add_trait="diligent"
+	add_trait="craven"
+	add_trait="flamboyant_schemer"
+	father=475550
+	mother=475551
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1325.1.1={
+		add_spouse=475554
+	}
+	1364.11.1={
+		death="1364.11.1"
+	}
+}
+
+475555 = {
+	name="Vlaicu"
+	dynasty=764
+	martial=4
+	diplomacy=7
+	intrigue=4
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	add_trait="temperate"
+	add_trait="cynical"
+	add_trait="tough_soldier"
+	father=475553
+	mother=475554
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+
+475556 = {
+	name="Radu"
+	dynasty=764
+	martial=6
+	diplomacy=6
+	intrigue=7
+	stewardship=7
+	religion="orthodox"
+	culture="romanian"
+	add_trait="honest"
+	add_trait="tough_soldier"
+	father=475553
+	mother=475554
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1383.1.1={
+		death="1383.1.1"
+	}
+}
+
+475560 = {
+	name="Tihomir"
+	dynasty=764
+	martial=6
+	diplomacy=6
+	intrigue=6
+	stewardship=5
+	religion="orthodox"
+	culture="romanian"
+	add_trait="wroth"
+	add_trait="gluttonous"
+	add_trait="flamboyant_schemer"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+34800 = {
+	name="Litvoy" 
+	dynasty=7311
+	religion="orthodox"
+	culture="romanian"
+	1225.1.1={
+		birth="1225.1.1"
+	}	
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+
+34801 = {
+	name="Barbat" 
+	dynasty=7311
+	religion="orthodox"
+	culture="romanian"
+	1230.1.1={
+		birth="1230.1.1"
+	}	
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+475554 = {
+	name="Maria"
+	female = yes
+	martial=7
+	diplomacy=6
+	intrigue=7
+	stewardship=4
+	religion="orthodox"
+	culture="romanian"
+	add_trait="amateurish_plotter"
+	1308.1.1 = {
+		birth="1308.1.1"
+	}
+	1358.1.1 = {
+		death="1358.1.1"
+	}
+}

@@ -1,0 +1,16 @@
+# 1225 - Agades
+# SWHM 2.74 had in-game name 'Agadez', so renamed to c_agadez to
+# resolve conflict of b_agazes with another province, also renamed.
+
+# County Title
+title = c_agades
+# Settlements
+max_settlements = 1
+
+b_agades = city
+
+# Misc
+culture = tuareg
+religion = pagan
+
+# History
